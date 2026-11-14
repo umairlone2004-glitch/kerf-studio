@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://umairlone2004-glitch.github.io/kerf-studio/sitemap.xml
